@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Frontend of Rent a Room -->
 
 # Rent a Room
@@ -175,3 +176,7 @@ return connect(mapStateToProps)(Authentication);
 }
 
 []: # Path: client\src\components\auth\sign_in.js
+=======
+# rent-a-room-client-side
+Frontend of the rent-a-room app
+>>>>>>> 6c7fa2d2f28be2cf636fa447750420fb97585332
